@@ -1,5 +1,7 @@
 package com.doranco.chat.model;
 
+import jakarta.persistence.*;
+
 import javax.persistence.*;
 import java.util.Set;
 
